@@ -12,7 +12,7 @@ I'm just building a new thing, Coming Soon.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/MahmoudMustafa186) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/mahmoudmustafa32838) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/MahmoudMustafa186) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/noah_mustafa_stuff) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
