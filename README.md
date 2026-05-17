@@ -16,7 +16,7 @@
 ## About Me
 
 <div align="center">
-  <img src="./about.svg" width="100%" alt="about me code window"/>
+  <img src="./about.png" width="100%" alt="about me code window"/>
 </div>
 
 ---
