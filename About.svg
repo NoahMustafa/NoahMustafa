@@ -1,0 +1,103 @@
+<svg width="860" height="380" viewBox="0 0 860 380" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="windowGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1e2227"/>
+      <stop offset="100%" stop-color="#1a1d22"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Window background -->
+  <rect width="860" height="380" rx="10" ry="10" fill="url(#windowGrad)" />
+
+  <!-- Title bar -->
+  <rect width="860" height="42" rx="10" ry="10" fill="#2a2d35"/>
+  <rect y="22" width="860" height="20" fill="#2a2d35"/>
+
+  <!-- Traffic lights -->
+  <circle cx="24" cy="21" r="6" fill="#ff5f56"/>
+  <circle cx="44" cy="21" r="6" fill="#ffbd2e"/>
+  <circle cx="64" cy="21" r="6" fill="#27c93f"/>
+
+  <!-- Title -->
+  <text x="430" y="26" font-family="JetBrains Mono, Fira Code, monospace" font-size="12" fill="#6b7280" text-anchor="middle" dominant-baseline="middle">noah_mustafa.py</text>
+
+  <!-- Line numbers column -->
+  <rect x="0" y="42" width="48" height="338" fill="#1c1f26" rx="0"/>
+
+  <!-- Line numbers -->
+  <text font-family="JetBrains Mono, Fira Code, monospace" font-size="13" fill="#3d4451" text-anchor="end">
+    <tspan x="38" y="72">1</tspan>
+    <tspan x="38" dy="24">2</tspan>
+    <tspan x="38" dy="24">3</tspan>
+    <tspan x="38" dy="24">4</tspan>
+    <tspan x="38" dy="24">5</tspan>
+    <tspan x="38" dy="24">6</tspan>
+    <tspan x="38" dy="24">7</tspan>
+    <tspan x="38" dy="24">8</tspan>
+    <tspan x="38" dy="24">9</tspan>
+    <tspan x="38" dy="24">10</tspan>
+    <tspan x="38" dy="24">11</tspan>
+    <tspan x="38" dy="24">12</tspan>
+    <tspan x="38" dy="24">13</tspan>
+  </text>
+
+  <!-- Active line highlight (line 8) -->
+  <rect x="48" y="218" width="812" height="24" fill="#2d3748" opacity="0.5"/>
+
+  <!-- Code content -->
+  <!-- Line 1: class NoahMustafa: -->
+  <text font-family="JetBrains Mono, Fira Code, monospace" font-size="13" y="72">
+    <tspan x="62" fill="#c678dd">class </tspan><tspan fill="#e5c07b">NoahMustafa</tspan><tspan fill="#abb2bf">:</tspan>
+  </text>
+
+  <!-- Line 2: blank -->
+
+  <!-- Line 3: def __init__ -->
+  <text font-family="JetBrains Mono, Fira Code, monospace" font-size="13" y="120">
+    <tspan x="62" fill="#abb2bf">    </tspan><tspan fill="#c678dd">def </tspan><tspan fill="#61afef">__init__</tspan><tspan fill="#abb2bf">(</tspan><tspan fill="#e06c75">self</tspan><tspan fill="#abb2bf">):</tspan>
+  </text>
+
+  <!-- Line 4: role -->
+  <text font-family="JetBrains Mono, Fira Code, monospace" font-size="13" y="144">
+    <tspan x="62" fill="#abb2bf">        </tspan><tspan fill="#e06c75">self</tspan><tspan fill="#abb2bf">.role       = </tspan><tspan fill="#98c379">"Data Engineer"</tspan>
+  </text>
+
+  <!-- Line 5: location -->
+  <text font-family="JetBrains Mono, Fira Code, monospace" font-size="13" y="168">
+    <tspan x="62" fill="#abb2bf">        </tspan><tspan fill="#e06c75">self</tspan><tspan fill="#abb2bf">.location   = </tspan><tspan fill="#98c379">"Cairo, Egypt"</tspan>
+  </text>
+
+  <!-- Line 6: languages -->
+  <text font-family="JetBrains Mono, Fira Code, monospace" font-size="13" y="192">
+    <tspan x="62" fill="#abb2bf">        </tspan><tspan fill="#e06c75">self</tspan><tspan fill="#abb2bf">.languages  = [</tspan><tspan fill="#98c379">"Python"</tspan><tspan fill="#abb2bf">, </tspan><tspan fill="#98c379">"SQL"</tspan><tspan fill="#abb2bf">, </tspan><tspan fill="#98c379">"Rust"</tspan><tspan fill="#abb2bf">]</tspan>
+  </text>
+
+  <!-- Line 7: stack (highlighted) -->
+  <text font-family="JetBrains Mono, Fira Code, monospace" font-size="13" y="228">
+    <tspan x="62" fill="#abb2bf">        </tspan><tspan fill="#e06c75">self</tspan><tspan fill="#abb2bf">.stack      = [</tspan><tspan fill="#98c379">"Airflow"</tspan><tspan fill="#abb2bf">, </tspan><tspan fill="#98c379">"Kafka"</tspan><tspan fill="#abb2bf">, </tspan><tspan fill="#98c379">"Snowflake"</tspan><tspan fill="#abb2bf">]</tspan>
+  </text>
+
+  <!-- Line 8: currently -->
+  <text font-family="JetBrains Mono, Fira Code, monospace" font-size="13" y="252">
+    <tspan x="62" fill="#abb2bf">        </tspan><tspan fill="#e06c75">self</tspan><tspan fill="#abb2bf">.currently  = </tspan><tspan fill="#98c379">"Building something new"</tspan>
+  </text>
+
+  <!-- Line 9: blank -->
+
+  <!-- Line 10: def __str__ -->
+  <text font-family="JetBrains Mono, Fira Code, monospace" font-size="13" y="300">
+    <tspan x="62" fill="#abb2bf">    </tspan><tspan fill="#c678dd">def </tspan><tspan fill="#61afef">__str__</tspan><tspan fill="#abb2bf">(</tspan><tspan fill="#e06c75">self</tspan><tspan fill="#abb2bf">):</tspan>
+  </text>
+
+  <!-- Line 11: return -->
+  <text font-family="JetBrains Mono, Fira Code, monospace" font-size="13" y="324">
+    <tspan x="62" fill="#abb2bf">        </tspan><tspan fill="#c678dd">return </tspan><tspan fill="#98c379">"I turn raw data into clean, scalable pipelines."</tspan>
+  </text>
+
+  <!-- Line 12: blank -->
+
+  <!-- Line 13: comment -->
+  <text font-family="JetBrains Mono, Fira Code, monospace" font-size="13" y="372">
+    <tspan x="62" fill="#5c6370"># cairo · data engineering · always building</tspan>
+  </text>
+</svg>
