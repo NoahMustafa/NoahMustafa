@@ -86,14 +86,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NoahMustafa&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&cache_seconds=1800" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoahMustafa&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&cache_seconds=1800" height="165"/>
-
-<br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=NoahMustafa&theme=tokyonight&hide_border=true" width="49%"/>
-
-<br/><br/>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NoahMustafa&theme=tokyo-night&hide_border=true&area=true)](https://github.com/NoahMustafa)
 
